@@ -1,0 +1,21 @@
+@media screen and (min-width: 400px){
+	body{
+		margin: 2%;
+	}
+	h1{
+		text-align: center;
+		font-size:  50px;
+	}
+	div.one{
+		width: 100%;
+		display: block;
+		background-color: gray;
+		margin: 1%;
+	}
+	h2{
+		background-color: red;
+		color: white;
+		float: right;
+		border: 1px solid black;
+	}
+}
